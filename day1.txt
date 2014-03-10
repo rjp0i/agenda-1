@@ -1,0 +1,2 @@
+0900-1225 intro to shell, version control
+1225-1345 lunch
